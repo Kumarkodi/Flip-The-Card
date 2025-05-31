@@ -11,8 +11,8 @@ A simple interactive web project that demonstrates a "flip card" effect using on
 
 ## 🚀 Demo
 
-Open `index.html` in your browser to see the flip card in action!
-
+- Open `index.html` in your browser to see the flip card in action!
+- https://flip-the-card.vercel.app/
 ## 🛠️ Technologies Used
 
 - **HTML**
